@@ -1,10 +1,3 @@
-//
-//  MeterReadingsViewController.swift
-//  cheremushkiApp
-//
-//  Created by GPT on 25.12.2025.
-//
-
 import UIKit
 
 final class MeterReadingsViewController: UIViewController {
